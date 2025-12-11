@@ -1,7 +1,6 @@
 # 💱 Conversor de Moneda (ARS → USD) en Python
 
 Conversor básico que convierte pesos argentinos a dólares usando un valor fijo del dólar.  
-Ideal como proyecto inicial de condicionales y operaciones.
 
 ---
 
